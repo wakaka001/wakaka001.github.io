@@ -31,9 +31,9 @@
 - Software Engineering Economics	软件工程经济学KA关注于在业务环境中做出决策，以使技术决策与组织的业务目标保持一致。
 - Computing Foundations		KA计算基础涵盖了为软件工程实践提供必要计算背景的基本主题。
 - Mathematical Foundations		数学基础KA涵盖了为软件工程实践提供必要数学背景的基本主题。
-- Engineering Foundations		工程基础KA涵盖了为软件工程实践提供必要工程背景的基本主题。
+- Engineering Foundations		工程基础KA涵盖了为软件工程实践提供必要工程背景的基本主题。  
  
- ## 简单解释 CMMI 的五个级别
+ ##  简单解释 CMMI 的五个级别
 - **Level 1 - 初始级**：无序，自发生产模式。
 - **Level 2 - 可管理级**: 制定了必要的过程纪律，能重复早先类似应用项目取得的成功经验。
 - **Level 3 - 已定义级**: 已将软件管理和工程两方面的过程文档化、标准化，并综合成该组织的标准软件过程。
