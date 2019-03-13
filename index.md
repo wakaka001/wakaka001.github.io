@@ -1,4 +1,4 @@
-## 软件工程的定义
+### 软件工程的定义
 
 - Software engineering is “(1) the application of a systematic, disciplined, quantifiableapproach to the development, operation, and maintenance of software, that is, the application of engineering to software,” and   
 “(2) the study of approaches as in (1).” –– IEEE Standard 610.12  
@@ -7,16 +7,16 @@
 （2）对（1）方法的研究
 
 
-## 解释导致 software crisis 本质原因、表现，述说克服软件危机的方法
+### 解释导致 software crisis 本质原因、表现，述说克服软件危机的方法
 
 - 计算机的发展导致软件危机
 - 计算能力越强大，编程越是大问题
 - 软件工程的目标就是克服软件危机，构建生产软件的方法与知识体系。
 
-## 软件生命周期
+### 软件生命周期
 - 在时间维度，对软件项目任务进行划分，又成为软件开发过程。常见有瀑布模型、螺旋模型、敏捷的模型等。
 
-## SWEBoK 的 15 个知识域（An Overview of the SWEBOK Guide 请中文翻译其名称与简短说明）
+### SWEBoK 的 15 个知识域（An Overview of the SWEBOK Guide 请中文翻译其名称与简短说明）
 - Software Requirements		软件需求表示对软件产品的需求和约束
 - Software Design			软件设计被定义为定义系统或组件的架构、组件、接口和其他特性的过程，以及该过程的结果
 - Software Construction		软件构建是指通过详细设计、编码、单元测试、集成测试、调试和验证的组合来详细创建工作软件。
@@ -33,12 +33,12 @@
 - Mathematical Foundations		数学基础KA涵盖了为软件工程实践提供必要数学背景的基本主题。
 - Engineering Foundations		工程基础KA涵盖了为软件工程实践提供必要工程背景的基本主题。  
  
- ##  简单解释 CMMI 的五个级别
-- **Level 1 - 初始级**：无序，自发生产模式。
-- **Level 2 - 可管理级**: 制定了必要的过程纪律，能重复早先类似应用项目取得的成功经验。
-- **Level 3 - 已定义级**: 已将软件管理和工程两方面的过程文档化、标准化，并综合成该组织的标准软件过程。
-- **Level 4 - 量化管理级**: 分析对软件过程和产品质量的详细度量数据，对软件过程和产品都有定量的理解与控制。
-- **Level 5 - 优化管理级**: 过程的量化反馈和先进的新思想、新技术促使过程持续不断改进。
+ ###  简单解释 CMMI 的五个级别
+- Level 1 - 初始级：无序，自发生产模式。
+- Level 2 - 可管理级: 制定了必要的过程纪律，能重复早先类似应用项目取得的成功经验。
+- Level 3 - 已定义级: 已将软件管理和工程两方面的过程文档化、标准化，并综合成该组织的标准软件过程。
+- Level 4 - 量化管理级: 分析对软件过程和产品质量的详细度量数据，对软件过程和产品都有定量的理解与控制。
+- Level 5 - 优化管理级: 过程的量化反馈和先进的新思想、新技术促使过程持续不断改进。
 
  
  
