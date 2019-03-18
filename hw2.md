@@ -17,3 +17,10 @@
 
 ## 从软件本质的角度，解释软件范围（需求）控制的可行性
 - 软件需求会因为用户不断进行更改，为了能够保证开发顺利，软件需求控制势在必行。实行软件需求控制，只要满足用户的基本需求，然后减去用户不确定的需求，就能够完成一个能够满足用户大部分需求的软件了。
+
+## 看板使用练习
+![kanban](https://github.com/wakaka001/wakaka001.github.io/raw/master/imgsrc/kanban.png)
+
+## UML绘图工具练习
+![umlet](https://github.com/wakaka001/wakaka001.github.io/raw/master/imgsrc/umlet.png)  
+*——《UML和模式应用》Page7 图1-5 局部设计类图*
