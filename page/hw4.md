@@ -129,10 +129,10 @@
 
   | 用例           | # 事务 | # 计算 | 原因 | UC 权重 |
   | -------------- | ------ | ------ | ---- | ------- |
-  | 1find_time     | 3      | 5      |      | 简单    |
-  | 2find_place    | 3      | 4      |      | 简单    |
+  | 1find_time     | 3      | 3      |      | 简单    |
+  | 2find_place    | 3      | 2      |      | 简单    |
   | 3choose ticket | 6      | 8      |      | 困难    |
-  | 4pay ticket    | 4      | 4      | 框架 | 平均    |
+  | 4pay ticket    | 4      | 5      | 框架 | 平均    |
   | 5make comment  | 3      | 3      |      | 简单    |
   | 6view comment  | 3      | 3      |      | 简单    |
 
