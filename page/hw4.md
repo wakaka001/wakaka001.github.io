@@ -57,13 +57,13 @@
 ------
 
 - 参与者不是特指人，是指系统以外的，在使用系统或与系统交互中所扮演的角色。  
-- ![参与者](../imgsrc/canyuzhe)
+- ![参与者](../imgsrc/canyuzhe.png)
 - 用例是对包括变量在内的一组动作序列的描述，系统执行这些动作，并产生传递特定参与者的价值的可观察结果。
-- ![用例](../imgsrc/yongli)
+- ![用例](../imgsrc/yongli.png)
 - 系统边界是用来表示正在建模系统的边界。
-- ![系统边界](../imgsrc/xitongbianjie)
+- ![系统边界](../imgsrc/xitongbianjie.png)
 - 箭头用来表示参与者和系统通过相互发送信号或消息进行交互的关联关系。
-- ![箭头](../imgsrc/jiantou)
+- ![箭头](../imgsrc/jiantou.png)
 
 ## 用例图的画法与步骤
 
